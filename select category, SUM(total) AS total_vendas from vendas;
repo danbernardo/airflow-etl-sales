@@ -1,0 +1,9 @@
+ sale_id | product |  category  |    region    | quantity | price  | sale_date  |       total        
+---------+---------+------------+--------------+----------+--------+------------+--------------------
+       1 | Jaqueta | Acessórios | Centro-Oeste |        9 | 119.21 | 2023-01-01 | 1072.8899999999999
+       2 | Boné    | Acessórios | Sudeste      |        4 | 495.54 | 2023-01-02 |            1982.16
+       3 | Tênis   | Roupas     | Norte        |        8 | 479.68 | 2023-01-03 |            3837.44
+       4 | Boné    | Calçados   | Norte        |        4 |  272.6 | 2023-01-04 |             1090.4
+       5 | Boné    | Calçados   | Sudeste      |        2 | 280.72 | 2023-01-05 |             561.44
+(5 rows)
+
