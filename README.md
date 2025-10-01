@@ -1,4 +1,4 @@
-# Projeto Airflow — Exemplo Didático (PT-BR)
+# Projeto Airflow
 
 Este projeto demonstra um pipeline ETL simples usando Apache Airflow, Pandas e PostgreSQL. O ETL processa dados de vendas de um CSV, transforma-os e salva no banco.
 
